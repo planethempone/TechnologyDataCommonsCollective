@@ -1,0 +1,74 @@
+Onboarding Script: Technology & Data Commons Collective (TDCC)
+
+Welcome, Architect of the Commons. Joining the TDCC means you are now a guardian of the Green Renaissance’s digital integrity. We don't just write code; we build homeostatic systems.
+
+This script is designed to be added to your .github/ folder as ONBOARDING.md or pinned in the TDCC Discussions.
+
+1. The Digital Handshake (First 24 Hours)
+
+Before touching the codebase, every TDCC developer must establish their Sovereign Presence.
+
+[ ] Authenticate via Virtual Identity: Ensure your GitHub account is linked to your Planet Hemp Virtual ID. We use signed commits to ensure every "Imprint" is traceable to a real contributor.
+
+[ ] Join the HempNet Discord/Slack: Enter the #tdcc-forge channel and introduce yourself with your specialty (e.g., "Full-stack / G-Code Optimization").
+
+[ ] Claim your Onboarding XP: Navigate to the Landing Platform and input your first "System Contribution" ticket to begin your ascent to Sovereign status.
+
+2. System Architecture & Context
+
+The TDCC operates on the ECS-as-homeostasis model. Familiarize yourself with our "Biological Logic" before diving into the repos:
+
+The Nexus (RI): Our "Brain." Understand how the Regenerative Intelligence aggregates data.
+
+The Cold Bridge: Our decentralized storage layer. Data here is "Common Wealth."
+
+The Global Hemp Ledger: Our financial backbone. Every industrial action is a transaction.
+
+3. Local Environment Setup
+
+Clone the "Forge" meta-repository to pull the core dependencies:
+
+Bash
+
+
+
+# Clone the TDCC Core Forge
+git clone https://github.com/planethempone/tdcc-core.git
+
+# Navigate and install dependencies
+cd tdcc-core
+npm install
+
+# Initialize your local 'Cold Bridge' node
+npm run nexus:init
+
+
+Important: Create a .env file based on .env.example. You will need your Nexus API Key to pull real-time soil data from the Eco-Guardian Network for testing.
+
+4. The Contribution Workflow (The Pulse)
+
+We follow a Trunk-Based Development model to ensure our "digital heartbeat" is constant.
+
+Select a Pulse: Pick a task from the TDCC Project Board. Labels range from refactor:calibration to feat:industrial-gcode.
+
+Branching: Use the naming convention imprint/your-name/task-description.
+
+The "Homeostatic" PR: Every Pull Request must include:
+
+Impact Statement: How does this change affect the Equity Index 2.0?
+
+Carbon Footprint: Is this code energy-efficient? (Check against our green-lint standards).
+
+Sovereign Review: All code must be reviewed by at least one Level 5 Sovereign before merging into the main branch.
+
+5. Mentorship & Support
+
+If you feel lost in the Nexus, do not hesitate to reach out:
+
+The Documentation: Check the /docs folder in the Vision repository.
+
+The Forge-Master: Ping @Sovereign_Dev in the GitHub Discussions for architectural questions.
+
+Pair Programming: Every Tuesday at 14:00 UTC, we host "Synergy Sprints"—open Zoom/Jitsi rooms for collaborative coding.
+
+"The code we write today is the soil our children will walk on tomorrow."
